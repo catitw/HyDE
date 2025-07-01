@@ -34,7 +34,7 @@ O|${HOME}/.config/hypr|hyde.conf shaders.conf workflows.conf animations.conf win
 P|${HOME}/.config/hypr|nvidia.conf|hyprland nvidia-utils
 P|${HOME}/.config/hypr/themes|theme.conf wallbash.conf colors.conf|hyprland
 S|${HOME}/.config/systemd|user|systemd
-P|${HOME}/.local/state/hyde|hyprland.conf|hyprland
+O|${HOME}/.local/state/hyde|hyprland.conf|hyprland
 
 S|${HOME}/.config/hypr|hyprland.conf|hyprland
 O|${HOME}/.local/bin|hyde-shell hydectl|hyprland
